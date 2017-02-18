@@ -7,3 +7,6 @@ https://archive.ics.uci.edu/ml/datasets/Zoo
 
 2) Teaching Assistant Dataset (Heterogenous Data -  categorical and numerical)
 https://archive.ics.uci.edu/ml/machine-learning-databases/tae/tae.data
+
+Neighborhood Rough Set Dataset Used:
+http://archive.ics.uci.edu/ml/datasets/Acute+Inflammations
