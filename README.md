@@ -10,3 +10,6 @@ https://archive.ics.uci.edu/ml/machine-learning-databases/tae/tae.data
 
 Neighborhood Rough Set Dataset Used:
 http://archive.ics.uci.edu/ml/datasets/Acute+Inflammations
+
+Fire Prediction Data Set UCI repository:
+https://archive.ics.uci.edu/ml/machine-learning-databases/forest-fires/forestfires.csv
